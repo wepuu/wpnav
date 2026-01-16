@@ -62,6 +62,14 @@
               "href": "https://aistudio.google.com/prompts/new_chat",
               "description": "Google AI Studio",
               "icon": "/assets/favicon_1764762488719.webp"
+            },
+            {
+              "id": "1768554313929",
+              "title": "豆包",
+              "href": "https://www.doubao.com/",
+              "description": "字节跳动旗下一款多功能AI智能助手。",
+              "icon": "/assets/favicon_1768554329471.png",
+              "enabled": true
             }
           ]
         },
