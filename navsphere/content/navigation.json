@@ -6,6 +6,14 @@
       "icon": "Star",
       "items": [
         {
+          "id": "item-1768453499359",
+          "enabled": true,
+          "title": "WePuu - 分享普通人可复制的赚钱路径",
+          "href": "https://www.wepuu.com/#google_vignette",
+          "description": "Wepuu是一个出海技术与教程网站，专注分享普通人可复制的出海赚钱路径，涵盖建站实操、工具评测、跨境项目拆解与真实经验，快来开启海外淘金之旅吧！",
+          "icon": "/assets/favicon_1768453482780.ico"
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -148,14 +156,6 @@
           "description": "edge 插件上传地址",
           "icon": "/assets/favicon_1768145646425.png",
           "enabled": true
-        },
-        {
-          "id": "item-1768453499359",
-          "enabled": true,
-          "title": "WePuu - 分享普通人可复制的赚钱路径",
-          "href": "https://www.wepuu.com/#google_vignette",
-          "description": "Wepuu是一个出海技术与教程网站，专注分享普通人可复制的出海赚钱路径，涵盖建站实操、工具评测、跨境项目拆解与真实经验，快来开启海外淘金之旅吧！",
-          "icon": "/assets/favicon_1768453482780.ico"
         }
       ],
       "subCategories": [],
