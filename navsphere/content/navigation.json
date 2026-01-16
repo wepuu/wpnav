@@ -70,6 +70,14 @@
               "description": "字节跳动旗下一款多功能AI智能助手。",
               "icon": "/assets/favicon_1768554329471.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768555090425_8esxghk6x",
+              "title": "Claude",
+              "href": "https://claude.ai/",
+              "description": "Claude 是由Anthropic 构建的高性能、可信赖且智能的AI 平台。Claude 在涉及语言、推理、分析、编码等任务中表现出色。",
+              "icon": "/assets/favicon_1768555004761.svg",
+              "enabled": true
             }
           ]
         },
