@@ -1400,6 +1400,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1768750550502",
+      "title": "AI图像",
+      "icon": "Image",
+      "description": "AI图片生成工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
