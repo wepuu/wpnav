@@ -1425,7 +1425,16 @@
       "icon": "Video",
       "description": "AI视频生成工具",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1768751601486_q7jdjvvkz",
+          "title": "即梦",
+          "href": "https://jimeng.jianying.com/",
+          "description": "字节旗下一站式AI创作平台，提供AI绘画和AIGC视频创作。",
+          "icon": "/assets/favicon_1768751368128.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
