@@ -173,9 +173,9 @@
         },
         {
           "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
-          "title": "AI 代码生成助手",
-          "icon": "Book",
-          "description": "",
+          "title": "AI 编程",
+          "icon": "Coffee",
+          "description": "收集国内外好用的AI编程工具",
           "enabled": true,
           "items": [
             {
