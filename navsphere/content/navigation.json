@@ -1416,15 +1416,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1768751344467",
-      "title": "AI视频",
-      "icon": "Video",
-      "description": "AI视频生成工具",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
