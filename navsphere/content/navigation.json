@@ -83,9 +83,9 @@
         },
         {
           "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
-          "title": "多媒体",
+          "title": "AI（图像/视频）",
           "icon": "BookOpen",
-          "description": "",
+          "description": "收集国内外AI图像、AI视频生成工具",
           "enabled": true,
           "items": [
             {
