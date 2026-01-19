@@ -227,15 +227,6 @@
       "enabled": true
     },
     {
-      "id": "1768750550502",
-      "title": "AI图像",
-      "icon": "Image",
-      "description": "AI图片生成工具",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1735433560958",
       "title": "自媒体工具包",
       "icon": "Video",
