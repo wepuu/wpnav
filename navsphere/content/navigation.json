@@ -119,6 +119,14 @@
               "description": "The fastest path from prompt to production with Gemini",
               "icon": "/assets/favicon_1760605601454.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1768751003879_iod4cbhtw",
+              "title": "Midjourney",
+              "href": "https://www.midjourney.com/",
+              "description": "Midjourney是一个顶尖的人工智能实验室，专注于通过文本生成高品质图像。它旨在探索全新的思维媒介，不断突破人类的审美边界与想象空间。",
+              "icon": "/assets/favicon_1768750917050.png",
+              "enabled": true
             }
           ]
         },
@@ -224,16 +232,7 @@
       "icon": "Image",
       "description": "AI图片生成工具",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1768751003879_iod4cbhtw",
-          "title": "Midjourney",
-          "href": "https://www.midjourney.com/",
-          "description": "Midjourney是一个顶尖的人工智能实验室，专注于通过文本生成高品质图像。它旨在探索全新的思维媒介，不断突破人类的审美边界与想象空间。",
-          "icon": "/assets/favicon_1768750917050.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
